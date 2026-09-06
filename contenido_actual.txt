@@ -1,0 +1,88 @@
+CONTENIDO ACTUAL DEL REPOSITORIO "Sanpedro"
+=============================================
+Fecha de extracción: 2026-09-05
+
+ARCHIVOS Y CARPETAS EN EL REPOSITORIO
+-------------------------------------
+- README.md
+- index.html
+- contenido_actual.txt (este archivo)
+
+Nota: el repositorio NO contiene carpetas ni otros archivos HTML. Las carpetas
+"css/", "scripts/", "images/" y "phone/" y las páginas enlazadas (nosotros.html,
+galeria.html, etc.) son referenciadas desde index.html pero no existen en el
+repositorio.
+
+
+README.md
+---------
+Título: Sanpedro
+Texto: pagina de san pedro de cajas
+
+
+index.html
+----------
+Origen: sitio exportado con Adobe Muse (generator 2018.1.0.386)
+Idioma: es-ES
+
+METADATOS
+- Título de la página (<title>): Home
+- Descripción (meta description): San Pedro de Cajas tierra de artesanos es uno
+  de los nueve distritos de la provincia de Tarma de la Region Junin Peru.
+- Palabras clave (meta keywords): sanpedrodecajas, patamarca, tarma, artesanos,
+  sampedranos, peru
+- Favicon: images/favicon.ico
+- Versión alterna para teléfono (max-width 370px):
+  http://www.sanpedrodecajas.com/phone/index.html
+  (redirección automática a phone/index.html en dispositivos móviles)
+- Fuentes web (Adobe Creative Cloud): Open Sans (n3), Kaushan Script (n4)
+
+TEXTOS Y TÍTULOS VISIBLES
+- "San Pedro"  (id u2090-4, logo/encabezado, enlace a http://www.sanpedrodecajas.com)
+- "De Cajas"   (id u2091-4, logo/encabezado, enlace a http://www.sanpedrodecajas.com)
+- Pestaña del acordeón 1 (id u2100-3): sin texto (&nbsp;)
+- Pestaña del acordeón 2 (id u3040-4): "2"
+
+MENÚ DE NAVEGACIÓN (acordeón, id accordionu2092)
+- NOSOTROS          -> nosotros.html
+- GALERIA           -> galeria.html
+- PAISAJES          -> paisajes.html
+- NUESTRA GENTE     -> nuestra-gente.html
+- CONTACTO          -> sampedranos-de-corazon.html
+- RADIO SAN PEDRO   -> sampedranos-de-corazon.html
+- TV en vivo        -> sampedranos-de-corazon.html
+
+ENLACES EXTERNOS
+- http://www.sanpedrodecajas.com (logo, dos veces)
+- http://www.sanpedrodecajas.com/phone/index.html (versión móvil)
+- http://stream.zenolive.com/g9gc78mmn3quv (transmisión de audio de la radio)
+- https://webfonts.creativecloud.com/open-sans:n3:all;kaushan-script:n4:all.js
+- //pagead2.googlesyndication.com/pagead/js/adsbygoogle.js (Google AdSense)
+
+IMÁGENES Y FOTOS
+- images/favicon.ico (única imagen referenciada directamente en el HTML)
+- Bloques con fondo de imagen (clase museBGSize; la imagen se define en el CSS
+  que no está en el repo): ids u2083, u2084, u2085, u2086, u2087
+- Marcos con sombra: ids u2088, u2089
+
+ELEMENTOS MULTIMEDIA / INCRUSTADOS
+- Reproductor de audio (id u7133): <audio controls autoplay>
+  fuente: http://stream.zenolive.com/g9gc78mmn3quv (audio/mp3) - Radio San Pedro
+- Anuncio Google AdSense (id u4924), comentario "chuyakplomo":
+  data-ad-client: ca-pub-6914749946758407
+  data-ad-slot: 8738071843
+  tamaño: 728x90
+
+ARCHIVOS REFERENCIADOS (no incluidos en el repositorio)
+- css/site_global.css
+- css/index.css
+- scripts/require.js
+- scripts/museconfig.js
+- museutils.js, jquery.musepolyfill.bgsize.js, jquery.watch.js, webpro.js,
+  musewpdisclosure.js, jquery-1.8.3.min.js
+- phone/index.html
+- nosotros.html, galeria.html, paisajes.html, nuestra-gente.html,
+  sampedranos-de-corazon.html
+
+INFORMACIÓN DE CONTACTO
+- No existe ningún número de teléfono, correo ni dirección en index.html.
